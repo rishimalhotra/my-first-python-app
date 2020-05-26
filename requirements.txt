@@ -1,2 +1,2 @@
-s2t2-game-utils
+ ns2t2-game-utils
 python-dotenv
